@@ -6,6 +6,11 @@ html {
     margin: 100px;
 }
 
+.background-color {
+  background-color: rgb(223, 49, 194);
+
+}
+
 .picture {
     width: 300px;
     height: 380px;

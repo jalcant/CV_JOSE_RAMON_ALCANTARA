@@ -9,12 +9,18 @@ html {
 .picture {
     width: 300px;
     height: 380px;
+    border-radius: 63%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+    
 }
 
 section {
     /* color de fondo  nombre del color , RGB , RGBA, Hexadecimal*/
-    background-color: rgb(247, 240, 240);
-    border: 3px  solid rgb(70, 130, 180);
+    background-color: rgb(209, 196, 240);
+    border: 3px  solid rgb(2, 15, 29);
     margin-top: 15px;
     padding: 30px;
 }

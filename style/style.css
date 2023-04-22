@@ -11,7 +11,7 @@ html {
 
 }
 
-.picture {
+.image-profile {
     width: 300px;
     height: 380px;
     border-radius: 63%;
@@ -38,8 +38,13 @@ section {
     height: 200px;
 }
 
-.linkedIn{
+.name{
     width: 25px;
     height: 25px;
 }
 
+.skills{
+    list-style-type: circle;
+    padding-left: 2rem;
+  list-style-type: none;
+    ]
